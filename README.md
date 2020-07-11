@@ -7,3 +7,6 @@
 1. 准备好双语数据，划分成训练集、验证集、测试集，按照博客中的命名方式命名
 2. 虽然有提供工具包，但是为了避免出错，最好安装一下环境，pip install fairseq jieba subword-nmt
 3. 进入script下，直接运行脚本即可
+
+
+博客 https://blog.csdn.net/MoreAction_/article/details/107252080
